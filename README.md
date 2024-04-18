@@ -1,6 +1,6 @@
 # Updated Full Scenario List
 
-* Game Version: 1.006.002
+* Game Version: 1.68 (1.006.002)
 * Info: If you're using FiveM some Scenarios don't will work, because FiveM not updated to Last Game Version/DLC
 
 Scenario | Entity
