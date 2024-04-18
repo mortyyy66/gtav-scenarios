@@ -1,7 +1,7 @@
 # Updated Full Scenario List
 
 * Game Version: 1.68 (1.006.002) February 20, 2024
-* Info: If you're using FiveM [make sure you're running the server on latest version (3095)](https://docs.fivem.net/docs/server-manual/server-commands/#sv_enforcegamebuild-build)
+* Info: If you're using FiveM [make sure you're running the server on latest GameBuild version (3095)](https://docs.fivem.net/docs/server-manual/server-commands/#sv_enforcegamebuild-build)
 
 Scenario | Entity
 --- | ---
