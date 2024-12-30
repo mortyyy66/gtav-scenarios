@@ -12,8 +12,7 @@ const obj = parser.toJson(METAData, { object: true });
 const scenarios = obj.CScenarioInfoManager.Scenarios
 
 Object.values(scenarios).forEach((currentScenario) => {
-  const scenarioList = currentScenario
-  scenarioList.map((scenario) => {
+  currentScenario.map((scenario) => {
     console.log(`-${scenario.Name}- | *Human*`)
   })
 })
